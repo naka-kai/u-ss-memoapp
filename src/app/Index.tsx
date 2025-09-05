@@ -3,7 +3,7 @@ import { JSX } from 'react'
 
 const Index = (): JSX.Element => {
   return (
-    <Redirect href='memo/detail' />
+    <Redirect href='memo/edit' />
   )
 }
 
